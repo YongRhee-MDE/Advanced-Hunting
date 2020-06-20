@@ -1,2 +1,2 @@
 # Advanced-Hunting
-M365 Advanced Hunting
+M365 MDATP Advanced Hunting
