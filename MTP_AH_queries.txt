@@ -1,0 +1,1 @@
+Please go to https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries
